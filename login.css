@@ -1,0 +1,68 @@
+*{
+    text-align: center;
+    padding: auto;
+}
+
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+  }
+  
+  a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  
+
+h1 {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ div{
+    padding: 10px;
+ }
+ input{
+    background-color: rgb(207, 190, 190, 0.1);
+    border-radius: 50px;
+    padding: 10px;  
+ }
+ .corpo{
+    background-color: rgb(246, 207, 134, 0.6);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+ button {
+    color: white;
+    background-color: brown;
+    padding: 10px 50px;
+    border-radius: 50px;
+    border-color: brown;
+ }
+ header {
+    padding-top: 20px;
+ }
+ footer {
+    padding: 20px;
+ }
+ b {
+    padding: 10px;
+ }
